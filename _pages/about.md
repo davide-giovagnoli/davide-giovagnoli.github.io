@@ -13,10 +13,9 @@ My research interests lie primarily in **Regularity theory of local and nonlocal
 
 I will finish my PhD in October 2026.
 Feel free to reach out to me via email at <d.giovagnoli@unibo.it>.
-
+<!--
 #This is my [CV](http://davide-giovagnoli.github.io/files/CV.pdf) (Oct. 2025).
-
-
+-->
 
 **Last updated: 2025. 11. 20**
 
