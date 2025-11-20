@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a PhD student at University of Bologna, Italy, working under the supervision of Prof. [Fausto Ferrari]([https://www.unibo.it/sitoweb/fausto.ferrari]).
+Currently, I am a PhD student at University of Bologna, Italy, working under the supervision of Prof. [Fausto Ferrari](https://www.unibo.it/sitoweb/fausto.ferrari).
 
 My research interests lie primarily in **Regularity theory of local and nonlocal PDES**, **Elliptic and parabolic free boundary problems** and **Calculus of variations**.
 
